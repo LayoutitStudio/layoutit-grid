@@ -24,6 +24,12 @@ Read more about [learning CSS Grid visually with a generator here](https://css-t
 
 These instructions will get you a copy of the project up and running on your local machine for development
 
+### Prerequisites
+Ensure you have the following versions installed on your local machine:
+
+Node.js: >= 14.0.0 < 17.0.0
+pnpm: 6.x.x
+
 ### Clone the repo
 
 Use ssh
